@@ -12,6 +12,12 @@ figure; hold on;
 %               examples and 'ko' for the negative examples.
 %
 
+admit = find(y == 1)
+decline = find(y == 0)
+
+plot(X(admit, 1), X(admit, 2), 'k+', 'Color', 'c')
+plot(X(decline, 1), X(decline, 2), 'ko', 'Color', 'm')
+
 
 
 
