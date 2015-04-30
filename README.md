@@ -10,4 +10,12 @@ Includes an implementation of linear regression, it's cost function, and gradien
 
 Includes an implementation of logistic regression, regularized logistic regression, and advanced optimization functions.
 
-## Example 3 Neural Networks
+## Example 3 Multi-Class Prediction
+
+Includes two implementations of multi-class prediction.  
+1. Logistic Regression  
+2. Neural Networks (forward propagation)
+
+## Example 4 Neural Networks
+
+Includes an implementation of back propagation with gradient check to learn the parameters for a neural network.
