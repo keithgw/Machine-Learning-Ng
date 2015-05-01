@@ -19,3 +19,7 @@ Includes two implementations of multi-class prediction.
 ## Example 4 Neural Networks
 
 Includes an implementation of back propagation with gradient check to learn the parameters for a neural network.
+
+## Example 5 Bias/Variance trade-offered
+
+Using ridge regression, this programming exercise uses a learning curve to diagnose high-bias/high-variance problems. Then, cross-validation is used to fit the lambda parameter in the penalty term for ridge regression.  
