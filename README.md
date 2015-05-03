@@ -1,5 +1,5 @@
 # Machine-Learning-Ng
-Repo for ML course offered by Andrew Ng of Stanford on Coursera
+Repo for ML course offered by Andrew Ng of Stanford on Coursera  
 All implementations are done in MATLAB.
 
 ## Example 1 Linear Regression
@@ -20,6 +20,10 @@ Includes two implementations of multi-class prediction.
 
 Includes an implementation of back propagation with gradient check to learn the parameters for a neural network.
 
-## Example 5 Bias/Variance trade-offered
+## Example 5 Bias/Variance trade-off
 
 Using ridge regression, this programming exercise uses a learning curve to diagnose high-bias/high-variance problems. Then, cross-validation is used to fit the lambda parameter in the penalty term for ridge regression.  
+
+## Example 6 Support Vector Machines
+
+Implementation of SVM algorithm to classify spam emails. Includes an example of feature building for text data.
