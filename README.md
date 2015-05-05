@@ -26,4 +26,12 @@ Using ridge regression, this programming exercise uses a learning curve to diagn
 
 ## Example 6 Support Vector Machines
 
-Implementation of SVM algorithm to classify spam emails. Includes an example of feature building for text data.
+Implementation of SVM algorithm to classify spam emails. Includes an example of feature building for text data.  
+
+## Example 7 Unsupervised Learning: K-means and PCA
+
+Implementation of K-means clustering and Principal Components Analysis for image compression. Additionally, dimensionality reduction is used to visualize high-dimensional data.  
+
+## Example 8 Anomaly Detection and Recommender Systems
+
+Implementation of anomaly detection to detect failing servers on a network. Also an implementation of collaborative filtering (low rank matrix factorization) to build a movie recommender system.
